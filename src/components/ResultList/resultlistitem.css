@@ -1,0 +1,7 @@
+.list-group-item {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 2px;
+    text-align: center;
+    flex-wrap: auto;
+}
